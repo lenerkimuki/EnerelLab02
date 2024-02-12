@@ -1,0 +1,13 @@
+<?xml version = "1.0" encoding = "utf-8"?>
+<resources>
+    <string name="app_name"> Really Fun App 02</string>
+    <string name="increment">Increment</string>
+    <string name="greeting_textview">hello CL</string>
+    <string name="decrement">Decrement</string>
+    <string-array name="planets_array">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+    </string-array>
+</resources>
